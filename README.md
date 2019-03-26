@@ -1,1 +1,0 @@
-# cse17_sungjun
