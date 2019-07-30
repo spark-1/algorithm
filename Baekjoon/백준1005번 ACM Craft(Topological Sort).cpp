@@ -32,7 +32,7 @@ int main() {
 		}
 		scanf("%d", &finish);
 
-		// 위상정렬 시작
+		// 위상정렬 시작  
 		queue<int> Q;
 		for (int i = 0; i < N; i++) {
 			if (indegree[i] == 0) {
