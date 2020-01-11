@@ -30,7 +30,7 @@ int main() {
 
 	sort(height, height + 9);
 
-	for (num = 0; num < 9; num++) {
+	for (num = 0; num < 7; num++) {
 			printf("%d\n", height[num]);
 	}
 }
